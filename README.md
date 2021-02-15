@@ -13,4 +13,4 @@
 - [![PostgreSQL](https://aleen42.github.io/badges/src/node.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/docker.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/visual_studio_code.svg)](#)
-- [![PostgreSQL](https://aleen42.github.io/badges/src/redux.svg)](#)
+- [![PostgreSQL](https://aleen42.github.io/badges/src/mocha.svg)](#)
