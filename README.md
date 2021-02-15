@@ -26,4 +26,4 @@ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/rhysprevite/) to fi
 
 ## My GitHub Stats :chart_with_upwards_trend: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preezey24)](https://github.com/Preezey24)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preezey24&theme=cobalt)](https://github.com/Preezey24)
