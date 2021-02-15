@@ -9,7 +9,7 @@
 - Every single data and algorithm problem known to man
 - Sharpening my skills within the array of my learned technologies 
 
-Feel free to visit my [LinkedIn](https://www.linkedin.com/in/rhysprevite/) to find out more, or contact me at previterp88@gmail.com with any questions. 
+Feel free to visit my [LinkedIn](https://www.linkedin.com/in/rhysprevite/) to find out more, or contact me at previterp88@gmail.com with any questions/offers you might have. 
 
 ## Technologies :computer: (some of the major ones I have experience using) 
 
