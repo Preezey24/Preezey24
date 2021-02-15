@@ -5,5 +5,5 @@
 
 ## Technologies 
 
-JavaScript | Python | PostgreSQL | CSS3 | HTML5 | Node.js | React | Redux | Flask | SQLAlchemy | Express.js | Sequelize | Docker | MapBox | Mocha | Chai 
+ - ![JavaScript]('https://aleen42.github.io/badges/src/javascript.svg')
 
