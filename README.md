@@ -24,6 +24,6 @@ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/rhysprevite/) to fi
 - [![PostgreSQL](https://aleen42.github.io/badges/src/mocha.svg)](#)
 - :heavy_plus_sign::heavy_plus_sign: other technologies including Flask, SQLAlchemy, Express.js, Sequelize and MapBox
 
-## My GitHub Stats :chart_with_upwards_trend: 
+## My Stats :chart_with_upwards_trend: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preezey24&theme=cobalt)](https://github.com/Preezey24)
