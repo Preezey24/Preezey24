@@ -5,7 +5,10 @@
 #### I'm currently working on: 
 - Finding a job
 
-## Technologies (some of the major ones I have experience using) 
+#### I'm currently learning :thought_balloon:: 
+- Every single data and algorithm problem known to man 
+
+## Technologies :computer: (some of the major ones I have experience using) 
 
 - [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](#)
 - [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
