@@ -19,3 +19,4 @@
 - [![PostgreSQL](https://aleen42.github.io/badges/src/docker.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/visual_studio_code.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/mocha.svg)](#)
+- :heavy_plus_sign: :heavy_plus_sign: other technologies including Flask, SQLAlchemy, Express.js, Sequelize and MapBox
