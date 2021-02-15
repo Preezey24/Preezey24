@@ -2,11 +2,12 @@
 
 ### Hi there 👋 welcomed visitor! My name is Rhys :sunglasses:, a Civil Engineer turned Software Developer.  
 
-#### I'm currently working on: 
-- Finding a job
+#### I'm currently working on :muscle:: 
+- Looking for work in Canada as a Software Developer 
 
 #### I'm currently learning :thought_balloon:: 
-- Every single data and algorithm problem known to man 
+- Every single data and algorithm problem known to man
+- Sharpening my skills within the array of my learned technologies 
 
 ## Technologies :computer: (some of the major ones I have experience using) 
 
@@ -19,4 +20,4 @@
 - [![PostgreSQL](https://aleen42.github.io/badges/src/docker.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/visual_studio_code.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/mocha.svg)](#)
-- :heavy_plus_sign: :heavy_plus_sign: other technologies including Flask, SQLAlchemy, Express.js, Sequelize and MapBox
+- :heavy_plus_sign::heavy_plus_sign: other technologies including Flask, SQLAlchemy, Express.js, Sequelize and MapBox
