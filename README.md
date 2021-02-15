@@ -1,6 +1,6 @@
 # About me
 
-### Hi there 👋, my name is Rhys 
+### Hi there 👋 welcomed visitor! My name is Rhys :sunglasses:, a Civil Engineer turned Software Developer.  
 
 
 ## Technologies 
