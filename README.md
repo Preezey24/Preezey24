@@ -2,8 +2,10 @@
 
 ### Hi there 👋 welcomed visitor! My name is Rhys :sunglasses:, a Civil Engineer turned Software Developer.  
 
+#### I'm currently working on: 
+- Finding a job
 
-## Technologies 
+## Technologies (some of the major ones I have experience using) 
 
 - [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](#)
 - [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
