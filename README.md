@@ -5,5 +5,5 @@
 
 ## Technologies 
 
-![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)(#)
+[![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](#)
 
