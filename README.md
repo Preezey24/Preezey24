@@ -23,3 +23,7 @@ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/rhysprevite/) to fi
 - [![PostgreSQL](https://aleen42.github.io/badges/src/visual_studio_code.svg)](#)
 - [![PostgreSQL](https://aleen42.github.io/badges/src/mocha.svg)](#)
 - :heavy_plus_sign::heavy_plus_sign: other technologies including Flask, SQLAlchemy, Express.js, Sequelize and MapBox
+
+## My GitHub Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preezey24)](https://github.com/Preezey24)
