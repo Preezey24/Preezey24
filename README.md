@@ -3,7 +3,7 @@
 ### Hi there 👋 welcomed visitor! My name is Rhys :sunglasses:, a Civil Engineer turned Software Developer.  
 
 #### I'm currently working on :muscle:: 
-- Looking for work in Canada as a Software Developer 
+- Looking for work in Australia as a Software Developer 
 
 #### I'm currently learning :thought_balloon:: 
 - Every single data and algorithm problem known to man
