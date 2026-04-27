@@ -1,29 +1,60 @@
-# About me
+## Rhys Previte
 
-### Hi there 👋 welcomed visitor! My name is Rhys :sunglasses:, a Civil Engineer turned Software Developer.  
+**Senior software & DevOps engineer.** Four years at Microsoft Xbox Player
+Services on the Trust & Safety org — text / image / video classification
+systems, an SLM API wrapper, a golden-dataset evaluation pipeline, and the
+underlying multi-cloud DevOps platform. Brisbane, Australia. Open to senior
+software, platform, or AI / ML engineering roles in Australia (or remote-AEST).
 
-#### I'm currently working on :muscle:: 
-- Looking for work in Australia as a Software Developer 
+### What I work on
 
-#### I'm currently learning :thought_balloon:: 
-- Every single data and algorithm problem known to man
-- Sharpening my skills within the array of my learned technologies 
+- **Backend services** — Python, JavaScript, TypeScript, Bash. Production-scale
+  text classifier (20k msgs/s, p99 ~100 ms, 500+ tier-1 tenants).
+- **AI / ML platforms** — fine-tuned SLM API wrappers, golden-dataset
+  regression-gated CI, OCR pipelines on Redis Streams, evaluation harnesses
+  adopted across sister teams.
+- **DevOps & platform** — AWS (EC2 / ECS / EKS / S3 / CloudWatch / Secrets
+  Manager), Kubernetes readiness probes + canary via Flux, Terraform, CI
+  security pipelines (Veracode + 1CS), org-wide observability tagging.
+- **Incident leadership** — six-week on-call rotation, 5-Whys investigations,
+  blameless retros, multi-tenant Redis RCA driving an AWS classic-to-application
+  LB migration that fully resolved a recurring outage.
+- **Mentoring & knowledge transfer** — co-led an 8-engineer service handover
+  with Game Day exercise, ran OWASP review meetings, point-of-contact for new
+  team-mates.
 
-Feel free to visit my [LinkedIn](https://www.linkedin.com/in/rhysprevite/) to find out more, or contact me at previterp88@gmail.com with any questions/offers you might have. 
+### Currently building
 
-## Technologies :computer: (some of the major ones I have experience with) 
+🔬 **[pulsegate](https://github.com/Preezey24/pulsegate)** — real-time
+biosignal classification platform. Streaming infrastructure, golden-dataset
+evaluation harness, and multi-connector orchestration for ECG arrhythmia
+detection on MIT-BIH. Brings the production AI-platform DevOps shape from
+Microsoft Xbox (FastAPI service wrapper, regression-gated CI, Redis Streams
+event distribution, Prometheus latency observability) to a new domain.
 
-- [![JavaScript](https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)](#)
-- [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
-- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-- [![React](https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)](#)
-- [![Redux](https://camo.githubusercontent.com/83567b9f41c104e5aaa3f09bc81434dee7178ad6d98272ef011c88002197cf5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782532302d2532333539336438382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](#)
-- [![Node](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)](#)
-- [![Docker](https://camo.githubusercontent.com/44efd43ec06ca08de1fd36fc533b8b4bfc196008a827104bc936b0e047867198/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722532302d2532333064623765642e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)](#)
-- [![VS Code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](#)
-- [![Mocha](https://aleen42.github.io/badges/src/mocha.svg)](#)
-- :heavy_plus_sign::heavy_plus_sign: other technologies including Flask, SQLAlchemy, Express.js, Sequelize and MapBox
+### Background
 
-## My Stats :chart_with_upwards_trend: 
+- **Microsoft — Xbox / Player Services (Team Classified)** · May 2021 – Aug
+  2025 · Software & DevOps Engineer II
+- **The De Beers Group** · Jun 2014 – Apr 2019 · Project Engineer & Project
+  Manager (mining — remote-site services, geotechnical, tailings closure,
+  monitoring infrastructure)
+- **App Academy** · 2020 · 6-month full-stack intensive
+- **University of Queensland** · Bachelor of Civil Engineering & Bachelor of
+  Commerce
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preezey24&theme=cobalt)](https://github.com/Preezey24)
+### Stack
+
+**Languages** Python · Bash · JavaScript · TypeScript · C# (.NET) · Lua
+**Cloud / DevOps** AWS · Microsoft Azure · Docker · Kubernetes · Terraform ·
+Flux · Prometheus · Grafana · FluentD · OpenSearch · CloudWatch
+**Backend** FastAPI · NestJS · Redis · PostgreSQL · MongoDB · Cassandra
+**Frontend** Angular (production) · React (App Academy)
+**CI / Security** Veracode SAST · 1CS · OWASP · dependency scanning · AWS
+Secrets Manager rotation
+
+### Reach me
+
+- 💼 [linkedin.com/in/rhysprevite](https://www.linkedin.com/in/rhysprevite/)
+- ✉️ previterp88@gmail.com
+- 📍 Brisbane, Australia
